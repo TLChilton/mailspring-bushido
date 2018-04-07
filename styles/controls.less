@@ -56,11 +56,48 @@
     }
 }
 
+/** WINDOW CONTROLS WITH TRAFFIC LIGHTS **/
 .toolbar-window-controls {
   margin-top: 25px;
   margin-left: 15px;
   width: auto;
   min-width: 0;
+}
+body.platform-linux .toolbar-window-controls .close {
+	position: relative;
+	width: 15px;
+	height: 15px;
+	border: 0;
+	background-color: #ff5248;
+	border-radius: 50%;
+	background-image: none !important;
+	}
+body.platform-linux .toolbar-window-controls .close:hover {
+	background-color: #c1362e;
+}
+body.platform-linux .toolbar-window-controls .minimize {
+	position: relative;
+	width: 15px;
+	height: 15px;
+	border: 0;
+	background-color: #fffb48;
+	border-radius: 50%;
+	background-image: none !important;
+	}
+body.platform-linux .toolbar-window-controls .minimize:hover {
+	background-color: #bec12d;
+}
+body.platform-linux .toolbar-window-controls .maximize {
+	position: relative;
+	width: 15px;
+	height: 15px;
+	border: 0;
+	background-color: #57ff48;
+	border-radius: 50%;
+	background-image: none !important;
+	}
+body.platform-linux .toolbar-window-controls .maximize:hover {
+	background-color: #39c12d;
 }
 
 .sheet-toolbar{
