@@ -40,6 +40,8 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 2. [Just download the master branch](https://github.com/NeoMahler/mailspring-idido)
 3. Open `Mailspring` -> `Install new theme...`
 
+[You can buy me a coffee!](https://www.buymeacoffee.com/Ondo) :coffee:
+
 ## Differences between Ido and Idido
 This is a list of the differences between both themes:
 
