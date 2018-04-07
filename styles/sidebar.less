@@ -10,10 +10,13 @@
 
 .btn.btn-toolbar.item-compose{
   background: @sidebar-bg!important;
-  border-color: @sidebar-fg-color!important;
+  border: none !important;
   img.content-mask{
     background-color: @sidebar-fg-color!important;
   }
+}
+.btn.btn-toolbar.item-compose:hover {
+  background: rgba(255,255,255, 0.3) !important;
 }
 
 [data-column="0"].column-RootSidebar, .nylas-outline-view .heading{
