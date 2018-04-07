@@ -1,4 +1,4 @@
-**Note:** because this is just a personal project, I can't assure that the theme will work in Windows or macOS. You are free to make a pull request for these Operating Systems, though.
+**Note:** because this is just a personal project, I can't guarantee that the theme will work on Windows or macOS. You are free to make a pull request for these Operating Systems, though.
 
 # Idido
 
