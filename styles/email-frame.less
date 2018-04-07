@@ -52,7 +52,6 @@
       height: @composer-btn-height;
       padding: @composer-btn-padding;
       margin: @composer-btn-margin;
-      border-color: @icon-bg-color;
       img.content-mask{
         background-color: @icon-bg-color!important;
       }
@@ -61,6 +60,12 @@
       }
     }
   }
+}
+.sheet-toolbar .btn-toolbar {
+  border: none !important;
+}
+.sheet-toolbar .btn-toolbar:hover {
+  background: rgba(0, 0, 0, 0.1) !important;
 }
 
 .window-type-composer, .layout-mode-popout{
