@@ -1,16 +1,11 @@
-```Now working with Mailspring 1.1.4   ```   :tada:
+**Note:** because this is just a personal project, I can't assure that the theme will work in Windows or macOS. You are free to make a pull request for these Operating Systems, though.
 
-# Ido
+# Idido
 
-Ido is a clean, simple, Polymail-inspired theme for Mailspring.
-
-![preview](./freedom.png)
-
-## Why 'Ido'?
-Ido in esperanto means descendent/spring and Ido is based on [Taiga](https://github.com/noahbuscher/N1-Taiga).
+Idido is a theme for the Mailspring mail client, forked from the [Ido theme](https://github.com/edipox/n1-ido), which is in turn based on [Taiga](https://github.com/noahbuscher/N1-Taiga). *Ido* means *offspring* in Esperanto, so *Idido* is *Offspring of the offspring*!
 
 # Theming
-The sidebar color can be changed by updating the color value in [this file](https://github.com/edipox/n1-ido/blob/master/styles/variables.less#L32). [Here is a video showing how to do that.](https://youtu.be/4L2v6tuAonE)
+The sidebar color can be changed by updating the color value in [this file](https://github.com/NeoMahler/mailspring-idido/blob/master/styles/variables.less#L32). [Here is a video showing how to do that.](https://youtu.be/4L2v6tuAonE)
 
 ## Firebrick
 It seems to be a really popular choice
@@ -41,11 +36,13 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 
 ## Installing
 
-1. [Download](https://getmailspring.com/) Mailspring - (desktop email client) if you have not yet
-2. [Just download the master branch](https://github.com/edipox/n1-ido)
+1. [Download](https://getmailspring.com/) Mailspring - (desktop email client) if you have not yet.
+2. [Just download the master branch](https://github.com/NeoMahler/mailspring-idido)
 3. Open `Mailspring` -> `Install new theme...`
 
-[Buy me a coffee :coffee::heart:](http://ko-fi.com/A553N9)
+## Differences between Ido and Idido
+This is a list of the differences between both themes:
 
-## TODO
-* Color picker plugin :pray:
+* Window controls have been replaced by traffic lights (inspired by macOS).
+
+This is a new fork, so there aren't any more changes. I'll update the list when I make further changes.
