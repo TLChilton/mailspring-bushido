@@ -46,5 +46,7 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 This is a list of the differences between both themes:
 
 * Window controls have been replaced by traffic lights (inspired by macOS).
+* Buttons don't have borders (as opposed to the circular borders of the original Ido theme).
+* Circular hover effect on buttons.
 
 This is a new fork, so there aren't any more changes. I'll update the list when I make further changes.
