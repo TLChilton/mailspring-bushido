@@ -33,14 +33,16 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 ## Installing
 
 1. [Download](https://getmailspring.com/) Mailspring - (desktop email client) if you have not yet.
-2. [Just download the master branch](https://github.com/NeoMahler/mailspring-idido)
-3. Open `Mailspring` -> `Install new theme...`
+2. [Download the latest release of Bushido](https://github.com/TLChilton/mailspring-bushido/releases)
+4. Unzip the folder wherever it is, likely called `mailspring-bushido.zip`
+4. In the settings dropdown in Mailspring go to  `Edit` -> `Install new theme...` and choose the unzipped folder
+6. The theme should now be available in `Edit` -> `Change theme...`
 
 ## Uninstalling
 This is the procedure I've discovered for uninstalling themes.
 
-1. Remove the theme's directory from your Mailspring/packages folder.
-2. In Mailspring go to `Developer` -> `Reload`
+1. Remove the theme's directory from your Mailspring/packages folder. For me on MX Linux it is in ~/.config/Mailspring/packages
+2. In Mailspring go to `Developer` -> `Reload` in the dropdown settings
 3. Restart Mailspring and the theme will no longer be in the themes settings
 
 ## Differences between Ido and Idido
