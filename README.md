@@ -8,24 +8,20 @@ Bushido is a theme for the Mailspring mail client, forked from the [Idido theme]
 The sidebar color can be changed by updating the color value in [this file](https://github.com/NeoMahler/mailspring-idido/blob/master/styles/variables.less#L32). [Here is a video showing how to do that.](https://youtu.be/4L2v6tuAonE)
 
 ## Firebrick
-It seems to be a really popular choice
 ![](./firebrick.png)
 
 ## Freedom
-The default theme
 ![](./freedom.png)
 
 ## Skyfall
-One of my fav :)
+My personal favorite, and the default theme
 ![](./skyfall.png)
 
 ## Inbox
-Ee.. What?
 ![](./inbox.png)
 But if you are looking for an Inbox inspired theme you should definitely try [agapanthus](https://github.com/taniadaniela/n1-agapanthus)
 
 ## Polymail
-:flushed:
 ![](./polymail.png)
 
 
