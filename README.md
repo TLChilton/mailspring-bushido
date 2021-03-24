@@ -44,7 +44,7 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 This is the procedure I've discovered for uninstalling themes.
 
 1. Remove the theme's directory from your Mailspring/packages folder.
-2. In Mailspring go to "Developer->Reload"
+2. In Mailspring go to `Developer` -> `Reload`
 3. Restart Mailspring and the theme will no longer be in the themes settings
 
 ## Differences between Ido and Idido
