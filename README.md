@@ -1,8 +1,8 @@
-**Note:** because this is just a personal project, I can't guarantee that the theme will work on Windows or macOS. You are free to make a pull request for these Operating Systems, though.
+**Note:** The adjustments I've made are in the context of my own personal Linux Thinkpad running MX Linux. Your mileage may vary
 
 # Bushido
 
-Bushido is a theme for the Mailspring mail client, forked from the [Ido theme](https://github.com/edipox/n1-ido), which is in turn based on [Taiga](https://github.com/noahbuscher/N1-Taiga). *Ido* means *offspring* in Esperanto, so *Idido* is *Offspring of the offspring*!
+Bushido is a theme for the Mailspring mail client, forked from the [Idido theme](https://github.com/NeoMahler/mailspring-idido), which is based on the [Ido theme](https://github.com/edipox/n1-ido), which is in turn based on [Taiga](https://github.com/noahbuscher/N1-Taiga). *Ido* means *offspring* in Esperanto, so *Idido* is *Offspring of the offspring*, and my spin on it *Bushido* abandons the Esperanto theme entirely.
 
 # Theming
 The sidebar color can be changed by updating the color value in [this file](https://github.com/NeoMahler/mailspring-idido/blob/master/styles/variables.less#L32). [Here is a video showing how to do that.](https://youtu.be/4L2v6tuAonE)
@@ -40,6 +40,12 @@ But if you are looking for an Inbox inspired theme you should definitely try [ag
 2. [Just download the master branch](https://github.com/NeoMahler/mailspring-idido)
 3. Open `Mailspring` -> `Install new theme...`
 
+## Uninstalling
+This is the procedure I've discovered for uninstalling themes.
+
+1. Remove the theme's directory from your Mailspring/packages folder.
+2. In Mailspring go to "Developer->Reload"
+3. Restart Mailspring and the theme will no longer be in the themes settings
 
 ## Differences between Ido and Idido
 This is a list of the differences between both themes:
@@ -52,3 +58,5 @@ This is a list of the differences between both themes:
 This is a list of the differences between both themes:
 
 * Centered the options button within the border in the top right
+
+More could be added as I find things to change in my normal use
