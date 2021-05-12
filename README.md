@@ -58,3 +58,6 @@ This is a list of the differences between both themes:
 * Centered the options button within the border in the top right
 
 More could be added as I find things to change in my normal use
+
+## Current Issues
+Currently the toolbar icons do not work if using the two-pane vertical mode.
